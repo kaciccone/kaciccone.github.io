@@ -3,15 +3,15 @@
 title:            Site Title
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Karen Ciccone
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I'm a librarian at NC State University in Raleigh."
+  email: kaciccone@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: kaciccone
   facebook: #username
   google:
     plus: #username
@@ -20,13 +20,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: kaciccone
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
   lastfm: #username
-  tumblr: #username
+  tumblr: kaciccone
   pinterest: #username
   foursquare: #username
   steam: #username
